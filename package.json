@@ -1,0 +1,11 @@
+{
+  "name": "ejercicio14-javascript",
+  "version": "1.0.0",
+  "description": "Ejercicio 14",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "author": "Luis Ibañez",
+  "license": "ISC"
+}
